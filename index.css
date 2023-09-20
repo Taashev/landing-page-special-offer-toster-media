@@ -1,0 +1,20 @@
+@import url('./vendor/fonts/gothampro/gothampro.css');
+
+body {
+  margin: 0;
+
+  font-family: 'Gotham Pro';
+  font-weight: 400;
+  font-style: normal;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  min-width: 390px;
+  min-height: 100vh;
+
+  background-color: #F0F0F0;
+}
